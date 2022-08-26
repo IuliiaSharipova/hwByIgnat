@@ -48,6 +48,7 @@
 
 .message {
     color: #ddff99;
+    word-wrap: break-word;
 }
 
 .time {
