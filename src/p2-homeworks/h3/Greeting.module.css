@@ -1,7 +1,12 @@
-.someClass {
+.inputGood {
 
 }
 
 .error {
     border: 1px solid red;
+}
+
+.greeting {
+    display: flex;
+    align-items: flex-start;
 }
