@@ -1,12 +1,42 @@
-.inputGood {
-
-}
-
-.error {
-    border: 1px solid red;
-}
-
 .greeting {
     display: flex;
     align-items: flex-start;
+    margin-left: 60px;
+}
+
+.inputGood {
+    background: #708e26;
+    color: #ddff99;
+}
+
+.inputGood:focus {
+    outline: none;
+    border: #ddff99 solid 2px;
+}
+
+.inputError{
+    background: #708e26;
+    color: #ddff99;
+    border: 2px solid #dc2a9f;
+    outline: none;
+}
+.error {
+    color: #dc2a9f;
+    height: 21px;
+}
+
+.button {
+    background-color: #ddff99;
+    margin-left: 20px;
+    color: #708e26;
+}
+
+.button:disabled {
+    background-color: darkgray;
+    color: #dc2a9f;
+}
+
+.counter {
+    color: #708e26;
+    margin-left: 20px;
 }
