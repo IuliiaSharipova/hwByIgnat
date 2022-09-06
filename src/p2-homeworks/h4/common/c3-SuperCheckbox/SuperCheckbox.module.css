@@ -1,7 +1,10 @@
 .checkbox {
-
+    height: 20px;
+    width: 20px;
+    accent-color: #ddff99;
 }
 
-.spanClassName {
-
+.checkbox:focus {
+    outline: max(3px, 0.15em) solid #708e26;
+    outline-offset: max(2px, 0.15em);
 }
