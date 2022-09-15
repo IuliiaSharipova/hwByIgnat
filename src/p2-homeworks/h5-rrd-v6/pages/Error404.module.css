@@ -1,0 +1,22 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    padding: 2.5rem;
+}
+
+main {
+    text-align: center;
+}
+
+main h1 {
+    font-family: "Fontdiner Swanky", cursive;
+    font-size: 4rem;
+    color: #c5dc50;
+    margin-bottom: 1rem;
+}
+
+main p {
+    font-size: 2rem;
+}
