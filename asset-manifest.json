@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hwByIgnat/static/css/main.447cc1ab.css",
+    "main.js": "/hwByIgnat/static/js/main.46e51963.js",
+    "static/js/787.0c3f432a.chunk.js": "/hwByIgnat/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/hwByIgnat/index.html",
+    "main.447cc1ab.css.map": "/hwByIgnat/static/css/main.447cc1ab.css.map",
+    "main.46e51963.js.map": "/hwByIgnat/static/js/main.46e51963.js.map",
+    "787.0c3f432a.chunk.js.map": "/hwByIgnat/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.447cc1ab.css",
+    "static/js/main.46e51963.js"
+  ]
+}
